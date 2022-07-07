@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsbursty&label=Profile%20views&color=1f7ab2&style=flat" alt="itsbursty" /> </p>
 
-- 🔭 I’m currently working on [a Minecraft server name RiftenRP](https://riftenrp.fr/)
+- 🔭 I’m currently working on a Discord server to promote your projects and a 3D multiplayer video game
 
-- 🌱 I’m currently learning **how to create video games ^^**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **toni.bursty@gmail.com**
 
